@@ -7,6 +7,15 @@ Every one is free to use it, enjoy :D remember travel safe.
 (in Progress)
 <b>PlayStore Link:</b> https://play.google.com/store/apps/details?id=com.app.reembike
 
+
+### Version: 0.1.3
+Feature fix:
+* marks now can be applied to any log
+
+### Version: 0.1.2
+Feature add:
+* new marks to add to registers, c/oil, c/chain and others options to save yours events.
+
 ### Version: 0.1.1
 Issues fixes:
 * new error messages when user input new kilometer below last record
