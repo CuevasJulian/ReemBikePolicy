@@ -7,6 +7,11 @@ Every one is free to use it, enjoy :D remember travel safe.
 (in Progress)
 <b>PlayStore Link:</b> https://play.google.com/store/apps/details?id=com.app.reembike
 
+### Version: 0.1.4.1
+Fix:
+* negative km average 
+* static oil km when bike change
+
 ### Version: 0.1.4
 New Item:
 * km average added to interface
