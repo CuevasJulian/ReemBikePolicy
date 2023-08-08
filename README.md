@@ -7,6 +7,10 @@ Every one is free to use it, enjoy :D remember travel safe.
 (in Progress)
 <b>PlayStore Link:</b> https://play.google.com/store/apps/details?id=com.app.reembike
 
+### Version: 0.1.4
+New Item:
+* km average added to interface
+* target sdk aim to 33
 
 ### Version: 0.1.3
 Feature fix:
